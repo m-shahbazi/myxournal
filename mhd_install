@@ -1,0 +1,16 @@
+
+sudo apt-get install autoconf
+
+=========================================
+
+sudo apt-get install libglib2.0-dev
+
+=========================================
+
+sudo apt-get install libpoppler-glib-dev 
+
+=========================================
+
+sudo apt-get install libgnomecanvas2-dev 
+
+
