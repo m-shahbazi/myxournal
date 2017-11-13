@@ -1,0 +1,73 @@
+build/
+./kdev4/
+
+
+# Prerequisites
+*.d
+*.kdev4
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+*.orig
+*~
+
+*.cache
+*.log
+*.status
+*.Po
+/src/xournal
+
+
+*.a
+*.gmo
+*.o
+Makefile
+
+aclocal.m4
+ar-lib
+autom4te.cache/
+compile
+config.guess
+config.h
+config.status
+config.sub
+configure
+
+po/POTFILES
+src/.deps
+src/Makefile
+
+src/ttsubset/.deps/
+src/ttsubset/Makefile
+
+src/xournal
+stamp-h1
+
